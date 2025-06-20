@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UP9EHTaMKpQYK8WFaM+MPgjl5GXFBY2AquXsEv34gL8=",
+  "Source": "AuthHmacOrJWT",
+  "BasePath": "_content/AuthHmacOrJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

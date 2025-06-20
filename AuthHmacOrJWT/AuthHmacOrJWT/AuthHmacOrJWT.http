@@ -1,0 +1,6 @@
+@AuthHmacOrJWT_HostAddress = http://localhost:5071
+
+GET {{AuthHmacOrJWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

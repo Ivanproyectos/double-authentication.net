@@ -1,0 +1,14 @@
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\bin\Debug\net8.0\AuthenticacionHmac.exe
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\bin\Debug\net8.0\AuthenticacionHmac.deps.json
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\bin\Debug\net8.0\AuthenticacionHmac.runtimeconfig.json
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\bin\Debug\net8.0\AuthenticacionHmac.dll
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\bin\Debug\net8.0\AuthenticacionHmac.pdb
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\AuthenticacionHmac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\AuthenticacionHmac.AssemblyInfoInputs.cache
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\AuthenticacionHmac.AssemblyInfo.cs
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\AuthenticacionHmac.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\AuthenticacionHmac.dll
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\refint\AuthenticacionHmac.dll
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\AuthenticacionHmac.pdb
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\AuthenticacionHmac.genruntimeconfig.cache
+C:\Users\ISP\Desktop\test\AuthenticacionHmac\AuthenticacionHmac\obj\Debug\net8.0\ref\AuthenticacionHmac.dll
