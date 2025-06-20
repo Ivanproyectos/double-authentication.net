@@ -36,6 +36,8 @@ namespace AuthHmacOrJWT.Controllers
 
             var claims = new[]
             {
+                new Claim(ClaimTypes.NameIdentifier, "123"), // ID
+                new Claim(ClaimTypes.Name, username),
                 new Claim(JwtRegisteredClaimNames.Sub, username),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                 new Claim(ClaimTypes.Role, "User"),

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B3DTw0eFu9g=",
+  "dgSpecHash": "pKlt9kTz/uA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\AuthHmacOrJWT\\AuthHmacOrJWT.csproj",
+  "projectFilePath": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\AuthHmacOrJWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ISP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
     "C:\\Users\\ISP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

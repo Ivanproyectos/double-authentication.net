@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthHmacOrJWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6da0f8ced5f7d27156f7037f55da7b0d6814a1b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthHmacOrJWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthHmacOrJWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

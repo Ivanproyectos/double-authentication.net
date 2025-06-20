@@ -35,6 +35,8 @@ builder
             ValidAudience = jwtSettings["Audience"],
             IssuerSigningKey = new SymmetricSecurityKey(key),
             ClockSkew = TimeSpan.Zero,
+            NameClaimType = ClaimTypes.Name, // Mapea el claim a User.Identity.Name
+            RoleClaimType = ClaimTypes.Role,
         };
     })
     .AddScheme<AuthenticationSchemeOptions, HmacAuthenticationHandler>("HMAC", null);

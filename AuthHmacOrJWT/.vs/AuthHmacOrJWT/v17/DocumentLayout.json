@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\",
+  "WorkspaceRootPath": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\desktop\\test\\authhmacorjwt\\authhmacorjwt\\controllers\\authtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\controllers\\authtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\documents\\proyectos\\double-authentication.net\\authhmacorjwt\\authhmacorjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\desktop\\test\\authhmacorjwt\\authhmacorjwt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\documents\\proyectos\\double-authentication.net\\authhmacorjwt\\authhmacorjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\documents\\proyectos\\double-authentication.net\\authhmacorjwt\\authhmacorjwt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\desktop\\test\\authhmacorjwt\\authhmacorjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\documents\\proyectos\\double-authentication.net\\authhmacorjwt\\authhmacorjwt\\controllers\\authtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\controllers\\authtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\documents\\proyectos\\double-authentication.net\\authhmacorjwt\\authhmacorjwt\\hmacauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\hmacauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|c:\\users\\isp\\documents\\proyectos\\double-authentication.net\\authhmacorjwt\\authhmacorjwt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E9B770-9DB4-444E-BEFE-EB4169C9F0E6}|AuthHmacOrJWT\\AuthHmacOrJWT.csproj|solutionrelative:authhmacorjwt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +58,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthHmacOrJWT\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthHmacOrJWT\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:30:20.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HmacAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\HmacAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "AuthHmacOrJWT\\HmacAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\HmacAuthenticationHandler.cs",
+              "RelativeToolTip": "AuthHmacOrJWT\\HmacAuthenticationHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:29:41.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthHmacOrJWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\appsettings.json",
+              "RelativeToolTip": "AuthHmacOrJWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T19:28:51.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\AuthHmacOrJWT\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Program.cs",
               "RelativeDocumentMoniker": "AuthHmacOrJWT\\Program.cs",
-              "ToolTip": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\AuthHmacOrJWT\\Program.cs",
+              "ToolTip": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Program.cs",
               "RelativeToolTip": "AuthHmacOrJWT\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T19:02:01.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuthTestController.cs",
-              "DocumentMoniker": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AuthTestController.cs",
+              "DocumentMoniker": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AuthTestController.cs",
               "RelativeDocumentMoniker": "AuthHmacOrJWT\\Controllers\\AuthTestController.cs",
-              "ToolTip": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AuthTestController.cs",
+              "ToolTip": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AuthTestController.cs",
               "RelativeToolTip": "AuthHmacOrJWT\\Controllers\\AuthTestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T19:00:59.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AuthHmacOrJWT\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ISP\\Desktop\\test\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ISP\\Documents\\Proyectos\\double-authentication.net\\AuthHmacOrJWT\\AuthHmacOrJWT\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AuthHmacOrJWT\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T19:00:58.218Z",
               "EditorCaption": ""
